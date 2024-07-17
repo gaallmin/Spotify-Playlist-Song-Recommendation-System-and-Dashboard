@@ -1,4 +1,4 @@
-# Spotify-Playlist-Song-Recommendation-System-and-Dashboard
+# Spotify-Playlist-Song-Recommendation-System-and-Dashboard :musical_note:
 
 ## Authors
  Shivani Manivasagan, Min Jegal, Alba Arribas Cervan, Ana Real Terradez

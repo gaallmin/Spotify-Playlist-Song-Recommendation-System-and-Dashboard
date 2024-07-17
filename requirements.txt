@@ -1,0 +1,10 @@
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+scipy
+simplejson
+scikit-learn
+pyLDAvis==3.4.1
+gensim==3.8.0

@@ -5,6 +5,8 @@
 
 ## Summary
 This project implements and evaluates several recommendation systems for Spotify playlists. We developed a content-based recommendation system using song lyrics and a user-based collaborative filtering system based on playlist overlap. The dataset created includes ~10,000 tracks from 100 playlists, preprocessed and vectorized using Bag-of-Words (BoW) and GloVe embeddings.
+![](https://github.com/gaallmin/Spotify-Playlist-Song-Recommendation-System-and-Dashboard/blob/main/figs/dash_overview1.PNG)
+![](https://github.com/gaallmin/Spotify-Playlist-Song-Recommendation-System-and-Dashboard/blob/main/figs/dash_overview2.PNG)
 
 ## Table of Contents
 - [Dataset Creation](#dataset-creation)
